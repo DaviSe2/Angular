@@ -1,0 +1,18 @@
+ul {
+    display: flex;
+    justify-content: space-between;
+    margin: 0px 100px 0px 100px;
+}
+
+ul a {
+    text-decoration: nome;
+    margin: 5px;
+    color: crimson;
+    cursor: pointer;
+    font-size: 30px;
+    transition: 0.3s;
+}
+
+ul a:hover {
+    font-size: 32px;
+}
