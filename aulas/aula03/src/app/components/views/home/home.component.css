@@ -1,0 +1,21 @@
+.main{
+    display: flex;
+    width: 100%;
+    flex-wrap: wrap;
+    justify-content: center;
+    text-align: center;
+}
+
+.animais {
+    width: 300px;
+    margin: 5px;
+    border: 1px solid #EEE;
+    font-size: 30px;
+    background-color: rgb(59, 21, 94);
+    color: white;
+}
+
+.animais p{
+    margin: 5px;
+
+}
